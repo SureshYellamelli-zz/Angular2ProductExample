@@ -29,7 +29,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 ## To install and Run this project 
-
 Download the code into your local system then run the below commands
+
 npm install
 npm start
